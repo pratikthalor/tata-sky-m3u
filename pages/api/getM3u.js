@@ -14,9 +14,7 @@ export default async function handler(req, res) {
         let m3uString = await generateM3u(uData);
         res.status(200).send(m3uString);
     }
-    else
-        let m3uString = await generateM3u(uData);
-        res.status(200).send(m3uString);
+    
 }
 
 
