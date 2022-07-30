@@ -6,7 +6,7 @@ https://github.com/ForceGT/Tata-Sky-IPTV
 Converted to a single repo to make it a one click deploy on vercel as a lot of you non-technical people were facing difficulties while deploying.
 ## Deploy on vercel and access from anywhere (Easy)
 1) Click the button below to deploy.<br>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/saifshaikh1805/tata-sky-m3u.git"><img src="https://vercel.com/button" alt="Deploy"/></a><br>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/pratikthalor/tata-sky-m3u.git"><img src="https://vercel.com/button" alt="Deploy"/></a><br>
 You will need an account on Vercel. It's free!
 2) Enjoy!
 ## Run locally (You need a little bit of git and npm knowledge)
